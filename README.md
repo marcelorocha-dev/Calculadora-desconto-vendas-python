@@ -1,4 +1,6 @@
-projeto de aprendizado simples desenvolvido em Python com foco em:
+<img src="Calculadora.png" width="200">
+
+Projeto de aprendizado simples desenvolvido em Python com foco em:
 
 - Manipulação de dados
 - Estruturas condicionais
