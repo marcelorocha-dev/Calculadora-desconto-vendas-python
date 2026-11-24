@@ -1,5 +1,5 @@
-#UM dos meus primeiros projetinhos em Python! Calculadora de Desconto Simples 🐍
-# Estou no 2º semestre e tô super animado com isso!
+#Um dos meus primeiros projetinhos em Python! Calculadora de Desconto Simples 🐍
+
 
 
 print("=== Calculadora de Desconto para Vendas ===")
@@ -22,4 +22,5 @@ try:
 
 except ValueError:
     print("Ops! Digite só números válidos, por favor.")
+    
 
